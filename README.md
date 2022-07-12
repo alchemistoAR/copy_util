@@ -1,2 +1,5 @@
 # copy_util
-copy file/files without attributes
+
+# BUILD
+
+mvn clean compile package
